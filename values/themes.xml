@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Kittiphop" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/pastelblue</item>
+        <item name="colorPrimaryVariant">@color/pastelblue</item>
+        <item name="android:statusBarColor">@color/pastelblue</item>
+    </style>
+
+    <style name="Theme.Kittiphop" parent="Base.Theme.Kittiphop" />
+</resources>
